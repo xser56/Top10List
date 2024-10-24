@@ -1,0 +1,25 @@
+
+.bodyD{
+    background-image: url(../assets/WelcometoDND.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.imageSize{
+    height: 618px;
+    width: 420px;
+}
+
+.bg-grey{
+    background-color: hsla(60, 1%, 21%, 0.8);
+    height: 1304;
+    width: 842;
+}
+
+
+
+
+
+
+
