@@ -1,7 +1,6 @@
 
 
-/* .imageSize{
-padding-top: 8rem;
+.imageSize1{
 height: 618px;
 width: 420px;
 }
@@ -13,7 +12,7 @@ width: 420px;
 
 .tagPad{
     padding-top: 4rem;
-} */
+} 
 
 .bodyD{
   background-image: url(../assets/WelcometoDND.png);
@@ -24,7 +23,7 @@ width: 420px;
   width: 1024;
 }
 
-/* Andrew Code, I copied from my style sheet. Things might need some tweekings */
+
 
 
 .bodyA{
