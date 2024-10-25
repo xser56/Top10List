@@ -4,6 +4,8 @@
 height: 618px;
 width: 420px;
 }
+
+
 .bg-grey{
     background-color: hsla(60, 1%, 21%, 0.8);
     height: 800px;
@@ -24,7 +26,13 @@ width: 420px;
 }
 
 
-
+.bodyTitle
+{
+  background-image: url(../assets/DnDList/2024-10-25T14_53_48.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
 .bodyA{
   background-image: url(../assets/VideoGameList/VideoGameBackground.png);
