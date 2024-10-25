@@ -1,15 +1,22 @@
+/* Need to change to image back ground instead of boy */
 body {
     background-image: url(../assists/Andrew\ Background.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed;           
     background-size: cover;
     background-position: center; 
   }
 
+.navbar-colors
+{
+  color: aliceblue;
+  background-color: #2C3035;
+}
 .container
 {
     background-color: #2c2828b0;
     border-radius: 10px;
+    
 }
 
 .aligntext
@@ -19,26 +26,35 @@ body {
 
 .review-text-col
 {
-  padding-top: 3%;
-  padding-left: 3%;
+  padding-top: 0.5%;
+  padding-left: 1.5%;
+  padding-right: 1.5%;
   font-size: 1.2rem;
-  border-radius: 10%;
+  border-radius: 3%;
+  background-color: rgba(240, 248, 255, 0.13);
+  text-align: center;
+  margin-left: 2%;
+  margin-right: 5%;
 }
 
 .video-col
 {
+  padding-left: 3%;
+  padding-bottom: 1%;
+  
   /* padding-bottom: 2%;
   padding-right: 50%;
   background-color: aliceblue;
   background-clip: content-box;
   box-shadow: inset 0 0 0 10px white; */
-  padding-left: 3%;
-  padding-bottom: 1%;
 }
 
 img
 {
+  border-radius: 3%;
   display: block;
   max-width: 100%;
   height: auto;
+  padding-right: 1.5%;
 }
+
